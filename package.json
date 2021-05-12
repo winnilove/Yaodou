@@ -18,7 +18,7 @@
     "muse-ui-carbon-theme": "^0.1.0",
     "muse-ui-message": "^0.2.1",
     "muse-ui-toast": "^0.3.0",
-    "swiper": "^4.5.0",
+    "swiper": "^6.5.1",
     "typeface-roboto": "0.0.54",
     "vue": "^2.6.10",
     "vue-router": "^3.0.3",
